@@ -1,8 +1,8 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+title: Firefly Art Studio
+description: Science fiction writer, avant-garde artist and brain washing machine.
+keywords: AlexFirefly, NELO, Science fiction, writer, avant-garde ,artist, brain washing machine
+author: AlexFirefly
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
